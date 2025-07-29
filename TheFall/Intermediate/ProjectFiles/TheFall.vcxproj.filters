@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheFall.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheFall.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheFallEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheFall">
+      <UniqueIdentifier>{2E968093-C217-326D-9324-C79DF44EBB18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheFall\TheFall.Build.cs">
+      <Filter>Source\TheFall</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheFall\TheFall.cpp">
+      <Filter>Source\TheFall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\TheFall.h">
+      <Filter>Source\TheFall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\TheFallCharacter.cpp">
+      <Filter>Source\TheFall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\TheFallCharacter.h">
+      <Filter>Source\TheFall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\TheFallGameMode.cpp">
+      <Filter>Source\TheFall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\TheFallGameMode.h">
+      <Filter>Source\TheFall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\TheFallPlayerController.cpp">
+      <Filter>Source\TheFall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\TheFallPlayerController.h">
+      <Filter>Source\TheFall</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheFall\Private">
+      <UniqueIdentifier>{9C27BF5A-9312-3ABB-BF9A-27F0152BDF3E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TheFall\Private\BaseClass">
+      <UniqueIdentifier>{13318EC7-3206-34D0-A51B-27275795AA8B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheFall\Private\BaseClass\TFCharacter.cpp">
+      <Filter>Source\TheFall\Private\BaseClass</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheFall\Public">
+      <UniqueIdentifier>{0658A34F-B0F2-3760-ABD1-33225F8A48AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TheFall\Public\BaseClass">
+      <UniqueIdentifier>{6B682098-9921-327D-B17F-ECE5B8A66BC7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheFall\Public\BaseClass\TFCharacter.h">
+      <Filter>Source\TheFall\Public\BaseClass</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheFall\Variant_Combat">
+      <UniqueIdentifier>{AB644477-E58B-35C0-BED7-5DBF0957A3CC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AnimNotify_CheckCombo.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatActivatable.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatActivatable.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatActivationVolume.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatActivationVolume.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatAttacker.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatAttacker.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatCheckpointVolume.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatCheckpointVolume.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatDamageable.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatDamageable.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatDamageableBox.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatDamageableBox.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatDummy.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatDummy.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatLavaFloor.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatLavaFloor.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatLifeBar.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatLifeBar.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\TheFall\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheFall\Variant_Combat\AI">
+      <UniqueIdentifier>{DD1970EA-A7AC-33D5-9CED-1C81D2D78B94}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\TheFall\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheFall\Variant_Platforming">
+      <UniqueIdentifier>{AA1E986B-E7E1-32B0-98CB-B79AF05619CD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Platforming\AnimNotify_EndDash.cpp">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Platforming\AnimNotify_EndDash.h">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\TheFall\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheFall\Variant_SideScrolling">
+      <UniqueIdentifier>{1A62CDA1-8190-3702-9960-BA9F30D86BC3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingCPP.Build.cs">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingInteractable.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingInteractable.h">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingUI.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\SideScrollingUI.h">
+      <Filter>Source\TheFall\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheFall\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{6BE4936A-B443-308A-B192-818901CC3C3C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\TheFall\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\TheFall\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\TheFall\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheFall\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{7E32107C-4504-319D-ADEA-62C847E3B925}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheFall\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\TheFall\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

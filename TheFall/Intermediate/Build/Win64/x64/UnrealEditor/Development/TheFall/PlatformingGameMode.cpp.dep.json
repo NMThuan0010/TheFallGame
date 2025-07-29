@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\variant_platforming\\platforminggamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\thefalleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thefall\\definitions.thefall.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\variant_platforming\\platforminggamemode.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\unrealeditor\\inc\\thefall\\uht\\platforminggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

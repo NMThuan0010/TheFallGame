@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\thefall.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\thefalleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thefall\\definitions.thefall.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\thefall.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

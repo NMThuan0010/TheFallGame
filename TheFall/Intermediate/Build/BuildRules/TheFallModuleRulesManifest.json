@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Echoflux Studio\\UE 5\\Project\\TheFall\\Source\\TheFall\\TheFall.Build.cs",
+		"D:\\Echoflux Studio\\UE 5\\Project\\TheFall\\Source\\TheFall.Target.cs",
+		"D:\\Echoflux Studio\\UE 5\\Project\\TheFall\\Source\\TheFallEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

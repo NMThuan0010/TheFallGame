@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\private\\baseclass\\tfcharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\thefalleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thefall\\definitions.thefall.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\public\\baseclass\\tfcharacter.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\unrealeditor\\inc\\thefall\\uht\\tfcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

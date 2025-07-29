@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\variant_combat\\combatdummy.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\thefalleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thefall\\definitions.thefall.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\variant_combat\\combatdummy.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\source\\thefall\\variant_combat\\combatdamageable.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\unrealeditor\\inc\\thefall\\uht\\combatdamageable.generated.h",
+            "d:\\echoflux studio\\ue 5\\project\\thefall\\intermediate\\build\\win64\\unrealeditor\\inc\\thefall\\uht\\combatdummy.generated.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicsconstraintcomponent.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintinstance.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintinstance.generated.h",
+            "e:\\studio\\unreal 5\\folder\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicsconstraintcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
